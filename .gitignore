@@ -1,0 +1,21 @@
+# Maven / build
+target/
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+
+# Java
+*.class
+*.jar
+*.war
+
+# Environment / secrets
+.env
+application-*.yml
+secrets/
